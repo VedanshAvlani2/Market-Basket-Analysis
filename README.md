@@ -1,7 +1,7 @@
-# Sales Analysis
+# Market Basket Analysis
 
 ## Overview
-This **Sales Analysis** project explores monthly sales data from 2019 to uncover key insights. The dataset includes individual monthly files (**Sales_January_2019 to Sales_December_2019**) and a combined dataset (**all_data_copy**). The analysis helps identify sales trends, peak revenue periods, and product demand patterns.
+This **Market Basket Sales Analysis** project explores monthly sales data from 2019 to uncover key insights. The dataset includes individual monthly files (**Sales_January_2019 to Sales_December_2019**) and a combined dataset (**all_data_copy**). The analysis helps identify sales trends, peak revenue periods, and product demand patterns.
 
 ## Features
 - **Data Cleaning & Preprocessing**: Combines monthly files and handles missing values.
